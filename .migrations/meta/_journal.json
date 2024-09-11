@@ -15,6 +15,13 @@
       "when": 1725999303588,
       "tag": "0001_gray_the_liberteens",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726055493382,
+      "tag": "0002_safe_layla_miller",
+      "breakpoints": true
     }
   ]
 }
